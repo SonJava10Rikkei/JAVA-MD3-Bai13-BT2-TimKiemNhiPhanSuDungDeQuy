@@ -16,7 +16,7 @@ public class BinarySearchRecursion {
         array.add(10);
         array.add(7);
         array.add(15);
-        array.add(13);
+        array.add(14);
         System.out.println("Mảng ban đầu--> " + array);
         Collections.sort(array);
         System.out.println("Mảng sau khi sắp xếp--> " + array);
